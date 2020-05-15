@@ -6,7 +6,7 @@ import (
 	"net/http/httputil"
 	"net/url"
 	"os"
-	"rslb/pkg/load"
+	"github.com/quells/rslb/pkg/load"
 	"strconv"
 )
 
